@@ -1,0 +1,2 @@
+C:/Users/USER/StudioProjects/medilink/android/app/.cxx/Debug/4z6o214x/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/USER/StudioProjects/medilink/android/app/.cxx/Debug/4z6o214x/x86_64/CMakeFiles/rebuild_cache.dir
