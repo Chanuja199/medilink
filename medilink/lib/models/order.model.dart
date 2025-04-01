@@ -6,6 +6,7 @@ class OrderMedicine {
   final int quantity;
   final Medicine? medicine;
 
+
   OrderMedicine({
     required this.medicineId,
     required this.quantity,
