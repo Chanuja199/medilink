@@ -10,6 +10,7 @@ class InsidePharmacyView extends StatefulWidget {
   _InsidePharmacyViewState createState() => _InsidePharmacyViewState();
 }
 
+
 class _InsidePharmacyViewState extends State<InsidePharmacyView>
     with SingleTickerProviderStateMixin {
   List<Medicine> _medicines = [];
