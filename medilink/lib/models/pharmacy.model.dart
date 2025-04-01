@@ -6,6 +6,7 @@ class Pharmacy {
   final Map<String, dynamic>? inventory;
   final int userId; // Required user ID for 1-1 relationship
 
+
   Pharmacy({
     this.id,
     required this.name,
