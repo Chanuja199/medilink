@@ -6,6 +6,7 @@ class User {
   final dynamic location;
   final String role;
 
+
   User({
     required this.name,
     required this.email,
